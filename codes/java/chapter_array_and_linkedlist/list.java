@@ -10,6 +10,8 @@ import java.util.*;
 
 public class list {
     public static void main(String[] args) {
+		System.out.println("test");
+		
         /* 初始化列表 */
         // 注意数组的元素类型是 int[] 的包装类 Integer[]
         Integer[] numbers = new Integer[] { 1, 3, 2, 5, 4 };
